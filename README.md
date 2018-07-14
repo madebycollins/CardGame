@@ -1,3 +1,3 @@
-![Build Status](https://travis-ci.com/madebycollins/Alex_AI.svg?token=PZpFQms49iyiumxXZRSn&branch=master)
+[![Build Status](https://travis-ci.com/madebycollins/CardGame.svg?branch=master)](https://travis-ci.com/madebycollins/CardGame)
 # CardGame
 A CardGame (Crazy Eight/ UNO) where you play the computer or the computer plays itself
